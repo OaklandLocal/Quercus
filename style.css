@@ -1,0 +1,11 @@
+/*
+Theme Name:     Quercus
+Theme URI:      http://oaklandlocal.com/
+Description:    Child theme of UrbanNews, a theme by Justin Young.
+Author:         maiki
+Author URI:     http://interi.org
+Template:       urbannews
+Version:        0.1.0
+*/
+
+@import url("../urbannews/style.css");
