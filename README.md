@@ -1,5 +1,9 @@
 # Quercus
-*Quercus* is a child theme of UrbanNews, customized for [OaklandLocal](http://oaklandlocal.com).
+*Quercus* is a child theme of [UrbanNews](http://interi.org/go/urbannews/), customized for [Oakland Local](http://oaklandlocal.com).
+
+## Changes
+
+The normal theme has an option to set a javascipt code to be loaded to serve an advertisement. Oakland Local serves its own advertisements, in addition to using ad networks. This theme registers a new widget area, and replaces the default header option so it loads next to the logo instead of the theme option.
 
 ## License
 
