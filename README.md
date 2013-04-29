@@ -5,6 +5,8 @@
 
 The normal theme has an option to set a javascipt code to be loaded to serve an advertisement. Oakland Local serves its own advertisements, in addition to using ad networks. This theme registers a new widget area, and replaces the default header option so it loads next to the logo instead of the theme option.
 
+We include the [Meta Box plugin](http://www.deluxeblogtips.com/meta-box/), since it is included in UrbanNews and is coded from that theme's directory, so when the ```functions.php``` loads it looks for it in our child theme. Perhaps there is a more elegant way to handle this. The author has been contacted with a fix suggestion.
+
 ## License
 
 Quercus is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
